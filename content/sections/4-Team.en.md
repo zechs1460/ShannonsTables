@@ -20,7 +20,7 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "JJ Douglas",
+    header: "JJ Cook",
     subheader: "The Hired Muscle",
     social: {
     }
